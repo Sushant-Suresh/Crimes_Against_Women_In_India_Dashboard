@@ -10,7 +10,7 @@ This repository contains the dataset, data source and dashboard link for a proje
 - Comparison of crimes and the types of crimes against women over the given period of time.
 - State wise comparison of different types of crimes committed against women.
 
-## Data Source
+## Dataset Source
 [Dataset Link](https://www.kaggle.com/datasets/balajivaraprasad/crimes-against-women-in-india-2001-2021)
 
 ## Dashboard
