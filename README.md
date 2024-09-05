@@ -14,7 +14,7 @@ This repository contains the dataset, data source and dashboard link for a proje
 [Dataset Link](https://www.kaggle.com/datasets/balajivaraprasad/crimes-against-women-in-india-2001-2021)
 
 ## Dashboard
-[Dashboard Link](https://docs.google.com/spreadsheets/d/1NzlhcD1FLMAJ5KCEU_CGlKV072vk4KautzignMAPf3w/edit?usp=sharing)
+[Dashboard Link](https://docs.google.com/spreadsheets/d/1NzlhcD1FLMAJ5KCEU_CGlKV072vk4KautzignMAPf3w/edit?gid=799737067#gid=799737067)
 
 
 ## Dependencies
