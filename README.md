@@ -6,7 +6,7 @@ This repository contains the dataset, data source and dashboard link for a proje
 
 ## Key Features
 
-- Analysis the crime distribution against women both region wise and state wise.
+- Analysis of crime distribution against women both region wise and state wise.
 - Comparison of crimes and the types of crimes against women over the given period of time.
 - State wise comparison of different types of crimes committed against women.
 
