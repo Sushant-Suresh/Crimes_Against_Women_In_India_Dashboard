@@ -16,7 +16,7 @@ This repository contains the dataset, data source and dashboard link for a proje
 ## Dashboard
 [Dashboard Link](https://docs.google.com/spreadsheets/d/1NzlhcD1FLMAJ5KCEU_CGlKV072vk4KautzignMAPf3w/edit?gid=799737067#gid=799737067)
 
-
+![Dashboard_Screenshot](https://github.com/user-attachments/assets/ee6115c8-0eb6-4301-a9c2-4d3562f68f1b)
 ## Dependencies
 
 - Google Sheets
