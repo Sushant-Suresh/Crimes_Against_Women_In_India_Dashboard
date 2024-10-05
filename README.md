@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the dataset, data source and dashboard link for a project focused on analyzing trends and visualising key insights into various types of crimes against women in India from 2001-2021 using a detailed dashboard. The project utilizes Google Sheets for comprehensive insights and visualization.
+This repository contains the dataset, data source and dashboard link for a project focused on analyzing trends and visualising key insights into various types of crimes against women in India from 2001-2021 using a detailed dashboard. The project utilizes Microsoft PowerBI for comprehensive insights and visualization.
 
 ## Key Features
 
@@ -16,7 +16,16 @@ This repository contains the dataset, data source and dashboard link for a proje
 ## Dashboard
 [Dashboard Link](https://docs.google.com/spreadsheets/d/1NzlhcD1FLMAJ5KCEU_CGlKV072vk4KautzignMAPf3w/edit?gid=799737067#gid=799737067)
 
-![Dashboard_Screenshot](https://github.com/user-attachments/assets/ee6115c8-0eb6-4301-a9c2-4d3562f68f1b)
+![Screenshot 2024-10-05 172306](https://github.com/user-attachments/assets/0694b721-e014-4526-892c-81271741bcec)
 ## Dependencies
 
-- Google Sheets
+- Microsoft Excel
+- Microsoft PowerBI
+
+## Findings
+
+- Nearly 4.8 Million cases have been registered against women in India from 2001-2021.
+- Crime density is maximum in northern and eastern parts of India.
+- From 2001-2021 Uttar Pradesh has been the most unsafe state for women.
+- Domestic Violence, Assault and Kidnapping are the Top-3 crimes registered against women.
+- There has been a steady increase of the total cases.
