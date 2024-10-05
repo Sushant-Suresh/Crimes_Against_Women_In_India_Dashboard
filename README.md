@@ -11,10 +11,10 @@ This repository contains the dataset, data source and dashboard link for a proje
 - State wise comparison of different types of crimes committed against women.
 
 ## Dataset Source
-[Dataset Link](https://www.kaggle.com/datasets/balajivaraprasad/crimes-against-women-in-india-2001-2021)
+[Dataset Source Link](https://www.kaggle.com/datasets/balajivaraprasad/crimes-against-women-in-india-2001-2021)
 
 ## Dashboard
-[Dashboard Link](https://docs.google.com/spreadsheets/d/1NzlhcD1FLMAJ5KCEU_CGlKV072vk4KautzignMAPf3w/edit?gid=799737067#gid=799737067)
+[PowerBI File Download Link](https://github.com/Sushant-Suresh/Crimes_Against_Women_In_India_Dashboard/blob/main/crimes_against_women.pbix)
 
 ![Screenshot 2024-10-05 172306](https://github.com/user-attachments/assets/0694b721-e014-4526-892c-81271741bcec)
 ## Dependencies
