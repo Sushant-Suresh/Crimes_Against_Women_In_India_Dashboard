@@ -1,8 +1,8 @@
-# Crimes Against Women in India (2001-2021) Project 
+# Crimes Against Women in India (2001-2021) - Analysis Project 
 
 ## Overview
 
-This repository contains the dataset, data source and dashboard link for a project focused on analyzing trends and visualising key insights into various types of crimes against women in India from 2001-2021 using a detailed dashboard. The project utilizes Microsoft PowerBI for comprehensive insights and visualization.
+This repository contains the dataset, data source and PowerBI file for a project focused on analyzing trends and visualising key insights into various types of crimes against women in India from 2001-2021 using a detailed dashboard. The project utilizes Microsoft PowerBI for comprehensive insights and visualization.
 
 ## Key Features
 
